@@ -1,12 +1,13 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 using System.Runtime.InteropServices;
 using System.Reflection;
 
 namespace BigEndian
 {
     /* Big Endian Array Type Grabbing*/
+
     public static class BigEndian
     {
         //PUBLIC METHODS

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigEndian", "BigEndian\BigEndian.csproj", "{F5D082EB-48F3-4318-A988-2E76A73D9DC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigEndian", "BigEndian\BigEndian.csproj", "{5BD28797-3849-4971-A3D2-F26D54AE3A5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5D082EB-48F3-4318-A988-2E76A73D9DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5D082EB-48F3-4318-A988-2E76A73D9DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5D082EB-48F3-4318-A988-2E76A73D9DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5D082EB-48F3-4318-A988-2E76A73D9DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD28797-3849-4971-A3D2-F26D54AE3A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD28797-3849-4971-A3D2-F26D54AE3A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD28797-3849-4971-A3D2-F26D54AE3A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD28797-3849-4971-A3D2-F26D54AE3A5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E63DA043-415A-4CF5-93F0-96E8B6D5F3FD}
+		SolutionGuid = {D06AD97E-EDF0-4D96-B7DF-6F1979B0ECC8}
 	EndGlobalSection
 EndGlobal
