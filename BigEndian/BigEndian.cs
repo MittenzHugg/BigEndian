@@ -75,14 +75,14 @@ namespace BigEndian
             _writeObj(value, ref output, ref ref_offset);
         }
 
-        public static byte[] writeArray<T>(in T[] value)
+        public static byte[] write_array<T>(in T[] value)
         {
             byte[] output = new byte[BigEndian.size<T>() * value.Length];
             int ref_off = 0;
             _writeArray(value, ref output, ref ref_off);
             return output;
         }
-        public static void writeArray<T>(in T[] value, ref byte[] output, int offset = 0)
+        public static void write_array<T>(in T[] value, ref byte[] output, int offset = 0)
         {
             int ref_off = offset;
             _writeArray(value, ref output, ref ref_off);
