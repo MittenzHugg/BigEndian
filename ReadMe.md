@@ -1,5 +1,5 @@
 # Big Endian
-### Library for pulling generic types (primatives, classes, structs) from byte collections (ex: array, list, etc.) with big endian byte ordering.
+### Library for pulling generic types (primitives, classes, structs, etc.) from byte collections (ex: array, list, etc.) with big-endian byte ordering.
 
 ## Reading
 The resulting type instance value can be returned as the function output:
